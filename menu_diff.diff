@@ -1,0 +1,12 @@
+--- menu1.txt	2024-10-19 05:04:44.012891900 +0530
++++ menu2.txt	2024-10-19 05:04:45.372924500 +0530
+@@ -1,6 +1,6 @@
+-Menu1:
++Menu:
+ 
+ Apples
+ Bananas
+-Oranges
+-Pears
++Grapes
++Strawberries

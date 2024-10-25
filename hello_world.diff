@@ -1,0 +1,6 @@
+--- hello_world.txt	2024-10-19 05:09:16.315069946 +0530
++++ hello_world_long.txt	2024-10-19 05:10:04.324099290 +0530
+@@ -1 +1,3 @@
+ Hello World
++
++It's a wonderful day!
